@@ -2,6 +2,9 @@
 
 A template for Node.js projects using TypeScript in 2023
 
+
+[![My Skills](https://skillicons.dev/icons?i=eslint,typescript,node)](https://skillicons.dev)
+
 - [Eslint](https://eslint.org/)
 - [TypeScript 5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
 - Uses `NodeNext` module and moduleResolution in `tsconfig.json`
