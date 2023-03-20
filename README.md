@@ -5,6 +5,7 @@ Designed for use with Node.js and TypeScript in 2023
 - Eslint
 - TypeScript 5
 - Uses NodeNext module and moduleResolution in `tsconfig.json`
+- Uses nodemon and ts-node-esm in `nodemon.json` for dev
 
 ## Getting started
 - Use template on GitHub to create new repository
