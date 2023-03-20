@@ -1,5 +1,5 @@
 // main.ts
-import fs from "fs"
+import getPackageJson from "./get-package-json.js"
 
 // log the contents of package.json
-console.log('Working', fs.readFileSync('package.json', 'utf8'))
+console.log('Working', getPackageJson())
