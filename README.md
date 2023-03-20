@@ -8,4 +8,4 @@ A template for Node.js projects using TypeScript in 2023
 - Uses [nodemon](https://www.npmjs.com/package/nodemon) and [ts-node-esm](https://www.npmjs.com/package/ts-node) in `nodemon.json` for dev
 
 ## Getting started
-- [Use template on GitHub to create new repository](https://github.com/Saganic/node-ts-template#:~:text=Create%20a%20new%20repository)
+- [Use template on GitHub to create new repository]https://github.com/Saganic/node-ts-template/generate)
