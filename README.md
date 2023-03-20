@@ -1,5 +1,5 @@
 # node-ts-template
-[![Packages used](https://skillicons.dev/icons?i=nodejs,typescript)]
+![Packages used](https://skillicons.dev/icons?i=nodejs,typescript)
 
 
 A template for Node.js projects using TypeScript in 2023
