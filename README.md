@@ -1,9 +1,8 @@
 # node-ts-template
+[![Packages used](https://skillicons.dev/icons?i=nodejs,typescript)]
+
 
 A template for Node.js projects using TypeScript in 2023
-
-
-[![Packages used](https://skillicons.dev/icons?i=nodejs,typescript)]
 
 - [Eslint](https://eslint.org/)
 - [TypeScript 5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
