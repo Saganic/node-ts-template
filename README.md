@@ -1,6 +1,6 @@
 # node-ts-template
 
-Designed for use with Node.js and TypeScript in 2023
+A template for Node.js projects using TypeScript in 2023
 
 - [Eslint](https://eslint.org/)
 - [TypeScript 5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/)
