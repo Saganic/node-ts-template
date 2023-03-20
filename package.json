@@ -1,8 +1,12 @@
 {
   "name": "node-ts-template",
   "description": "A template for Node.js projects using TypeScript in 2023",
-  "author": "Chris Saganic <chris@saganic.co.uk> (https://github.com/saganic)",
   "version": "1.0.0",
+  "author": "Chris Saganic <chris@saganic.co.uk> (https://github.com/saganic)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Saganic/node-ts-template.git"
+  },
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
@@ -11,10 +15,6 @@
     "start": "node ./dist/.",
     "lint": "eslint src/**/*.ts",
     "format": "eslint src/**/*.ts --fix"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Saganic/node-ts-template.git"
   },
   "license": "MIT",
   "devDependencies": {
