@@ -7,11 +7,11 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
+    "dev": "nodemon",
     "start": "node ./dist/.",
     "lint": "eslint src/**/*.ts",
     "format": "eslint src/**/*.ts --fix"
   },
-  
   "repository": {
     "type": "git",
     "url": "https://github.com/Saganic/node-ts-template.git"
@@ -22,6 +22,8 @@
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
     "eslint": "^8.36.0",
+    "nodemon": "^2.0.21",
+    "ts-node": "^10.9.1",
     "typescript": "^5.0.2"
   }
 }
